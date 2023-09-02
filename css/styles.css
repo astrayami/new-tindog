@@ -1,0 +1,9 @@
+.back{
+    height: 80vh;
+}
+.iphone{
+    position: relative;
+    right:20%;
+    transform: rotate(25deg);
+    top: 15%;
+}
